@@ -1,7 +1,7 @@
 # Sobre mim
 
-- 👋 Olá meu nome é @AnaFlaviaMaria14
-- :+1: meu email de contato é wagner.ana@escola.pr.gov.br
+- 👋 Olá meu nome é **@AnaFlaviaMaria14**
+- :+1: meu email de contato é [email](wagner.ana@escola.pr.gov.br)
 - Eu estou interessada em aprender a programar novas linguagens
 - Eu estou aprendendo a programar recentemente a linguagem Java script e Scratch
 
