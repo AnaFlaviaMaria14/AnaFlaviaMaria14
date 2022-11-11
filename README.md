@@ -3,9 +3,9 @@
 - 👋 Olá meu nome é **@AnaFlaviaMaria14**
 - :+1: meu email de contato é [email](wagner.ana@escola.pr.gov.br)
 - Eu estou interessada em aprender a programar novas linguagens
-- Eu estou aprendendo a programar recentemente a linguagem Java script e Scratch
+- Conclui a linguagem Java script e Scratch e atualmente eu estou aprendendo a linguagem HTML
 
-![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
  
  **Também gosto de desenhar** [Perfil](https://www.instagram.com/anaflaviamariasanto/)
  
